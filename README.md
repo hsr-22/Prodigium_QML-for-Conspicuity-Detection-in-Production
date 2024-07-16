@@ -3,10 +3,6 @@ Womanium Quantum+AI 2024 Projects
 
 **Please review the participation guidelines [here](https://github.com/womanium-quantum/Quantum-AI-2024) before starting the project.**
 
-_**Do NOT delete/ edit the format of this read.me file.**_
-
-_**Include all necessary information only as per the given format.**_
-
 ## Project Information:
 
 ### Team Size:
@@ -33,8 +29,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Harsh Sanjay Roniyar
+ - Womanium Program Enrollment ID: WQ24-ZomTMc92Q3ilWBg
 
 
 Team Member 2:
