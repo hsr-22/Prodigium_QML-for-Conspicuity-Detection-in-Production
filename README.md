@@ -39,6 +39,7 @@ Team Member 2:
 
 
 ### Project Solution:
+**Team Name**: Prodigium
 
 For running any notebooks in this repository, please install required packages with the following command.
 ```bash
