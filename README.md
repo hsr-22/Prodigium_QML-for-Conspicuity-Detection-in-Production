@@ -39,11 +39,20 @@ Team Member 2:
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+
+For running any notebooks in this repository, please install required packages with the following command.
+```bash
+pip install -r requirements.txt
+```
+
+**Files Included**:
+- T1_PennylaneCodebook.ipynb - Pennylane Basics and Initial Setup.
+- T2_Variational.ipynb - Variational Quantum Classifiers implementation.
+- T3_Quanvolutional.ipynb - MNIST dataset analysis using Quantum Machine Learning with Convolution Kernels.
+- T4_Sine.ipynb - Analysis using sine function data. 
 
 ### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
+[Prodigium_Project_Deck](#)
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
