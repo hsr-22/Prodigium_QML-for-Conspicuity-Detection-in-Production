@@ -53,7 +53,7 @@ pip install -r requirements.txt
 - T4_Sine.ipynb - Analysis using sine function data. 
 
 ### Project Presentation Deck:
-[Prodigium_Project_Deck](#)
+[Prodigium_Project_Deck](https://drive.google.com/file/d/1ytO6i_nu_X7Sd_PZl9mg8X1baemlq-Q0/view?usp=sharing)
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
